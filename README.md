@@ -6,8 +6,22 @@ Creates the block formation seen in the Mario game
 
 <h3>Part 1:</h3>
 
-* Has one 'staircase' of blocks
+<h4>Has one 'staircase' of blocks based on the input height</h4>
+
+Example for a height of 4:
+
+   ##
+  ###
+ ####
+#####
 
 <h3>Part 2:</h3>
 
-* Has two mirrored 'staircases' of blocks
+<h4>Has two mirrored 'staircases' of blocks based on the input height</h4>
+
+Example for a height of 4:
+
+   ##  ##
+  ###  ###
+ ####  ####
+#####  #####
