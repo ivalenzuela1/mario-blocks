@@ -10,10 +10,12 @@ Creates the block formation seen in the Mario game
 
 Example for a height of 4:
 
-<div>'   ##'</div>
-<div>'  ###'</div>
-<div>' ####'</div>
-<div>'#####'</div>
+(Needs to be updated)
+
+<div>   ##</div>
+<div>  ###</div>
+<div> ####</div>
+<div>#####</div>
 
 <h3>Part 2:</h3>
 
@@ -21,7 +23,9 @@ Example for a height of 4:
 
 Example for a height of 4:
 
-<div>'   ##  ##'</div>
-<div>'  ###  ###'</div>
-<div>' ####  ####'</div>
-<div>'#####  #####'</div>
+(Needs to be updated)
+
+<div>   ##  ##</div>
+<div>  ###  ###</div>
+<div> ####  ####</div>
+<div>#####  #####</div>
